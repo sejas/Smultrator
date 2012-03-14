@@ -23,3 +23,7 @@ License: (cc) Antonio Sejas
 }
 */
 
+
+//////////////GIT
+  git remote add origin git@github.com:antoniosejas/Smultrator.git
+  git push -u origin master
