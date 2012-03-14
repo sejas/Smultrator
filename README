@@ -1,0 +1,25 @@
+Autor: Antonio Sejas
+Uri: http://antonio.sejas.es
+License: (cc) Antonio Sejas
+
+
+
+
+
+//LLAMADA: http://antonio.sejas.es/proyectos/google/traductor/?texto=hobbies&from=en&to=es&json
+//LLAMADA: http://antonio.sejas.es/proyectos/google/traductor/?texto=hobbies&from=en&to=es
+//LLAMADA: http://antonio.sejas.es/proyectos/google/traductor/?texto=hobbies
+//VIA:http://code.google.com/intl/es-ES/apis/language/translate/v2/using_rest.html
+
+/*EJemplo respuesta de google JSON
+{
+ "data": {
+  "translations": [
+   {
+    "translatedText": "Hallo Welt"
+   }
+  ]
+ }
+}
+*/
+
